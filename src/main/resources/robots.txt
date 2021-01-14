@@ -1,0 +1,20 @@
+User-agent: Googlebot
+Disallow: 
+
+User-agent: YandexBot
+Disallow: 
+
+User-agent: YandexVideo
+Disallow: 
+
+User-agent: YandexWebmaster
+Disallow: 
+
+User-agent: YandexMetrika
+Disallow:
+
+User-agent: YandexMedia
+Disallow: 
+
+User-agent: *
+Disallow: /
